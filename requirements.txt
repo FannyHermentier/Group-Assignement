@@ -5,3 +5,4 @@ pandas
 tensorflow
 joblib
 scikit-optimize
+scikit-learn
