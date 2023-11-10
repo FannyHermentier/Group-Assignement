@@ -4,6 +4,6 @@ numpy
 pandas
 tensorflow
 joblib
-scikit-optimize
+scikit-optimize==1.2.2
 scikit-learn
 xgboost
