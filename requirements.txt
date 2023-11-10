@@ -6,3 +6,4 @@ tensorflow
 joblib
 scikit-optimize
 scikit-learn
+xgboost
